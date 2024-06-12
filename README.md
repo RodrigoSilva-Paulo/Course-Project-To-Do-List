@@ -15,9 +15,6 @@ O aplicativo "To-do List" é uma lista de afazeres simples, mas eficaz, projetad
 - `flutter_slidable: ^3.1` - para fornecer uma experiência de usuário melhorada com ações deslizantes em itens da lista
 - `shared_preferences: ^2.2.3` - para armazenar dados localmente no dispositivo do usuário
 
-## Resultados
-O To-do List foi desenvolvido com sucesso, demonstrando as capacidades do Flutter em criar interfaces de usuário dinâmicas e responsivas. As funcionalidades implementadas permitem uma experiência de usuário suave e intuitiva. Os usuários podem adicionar, editar e remover tarefas facilmente, garantindo que suas listas de afazeres estejam sempre atualizadas.
-
 ## Demonstração
 
 <p align="center">
@@ -28,5 +25,3 @@ O To-do List foi desenvolvido com sucesso, demonstrando as capacidades do Flutte
 </p>
 
 ---
-
-Lembre-se de substituir as imagens pelos nomes reais das telas do seu aplicativo, se necessário, e de incluir quaisquer outros detalhes específicos das funcionalidades e tecnologias que você utilizou.
