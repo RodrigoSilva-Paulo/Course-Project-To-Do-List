@@ -1,16 +1,23 @@
-# todo_list
+# Aplicativo To-do List
 
-A new Flutter project.
+Este projeto simples que foi elaborado como parte do curso completo de Flutter disponível na Udemy, que abrange o desenvolvimento de aplicativos para Android e iOS. O objetivo deste projeto é aplicar os conhecimentos adquiridos no curso para criar um aplicativo funcional e atraente.
 
-## Getting Started
+## Funcionalidades Implementadas em Destaque
+- Elaboração de listas
+- Percistencia de dados simples
 
-This project is a starting point for a Flutter application.
+## Pacotes Adicionais
+- flutter_slidable: ^3.1.
+- shared_preferences: ^2.2.3
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
+- Flutter SDK
+- Dart
+- Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Resultados
+O To-do List foi desenvolvido com sucesso, demonstrando as capacidades do Flutter em criar interfaces de usuário dinâmicas e responsivas. As funcionalidades implementadas permitem uma experiência de usuário suave e intuitiva.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demonstração
+
+---
